@@ -1,1 +1,1 @@
-import greeting from 'myscripts.js'
+export  greeting from 'myscripts.js'
